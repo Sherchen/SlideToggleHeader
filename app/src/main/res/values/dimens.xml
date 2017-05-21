@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--标题栏高度-->
+    <dimen name="title_height">30dp</dimen>
+    <!--listview 头部高度-->
+    <dimen name="header_height">150dp</dimen>
+    <!--滑动结束固定的高度-->
+    <dimen name="header_sticky_height">50dp</dimen>
+</resources>
